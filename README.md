@@ -10,4 +10,4 @@
 ## Notes
 1.Make sure you have an active internet connection to properly load external scripts.\
 2.This demo uses hardcoded values for demonstration purposes. In a real-world scenario, you would dynamically generate these values based on user inputs or server-side data.\
-3.Ensure that you have obtained the necessary API keys and secrets from eSewa and replace them in the provided HTML file accordingly.\
+3.Ensure that you have obtained the necessary API keys and secrets from eSewa and replace them in the provided HTML file accordingly.
