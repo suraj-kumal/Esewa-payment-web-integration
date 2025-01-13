@@ -5,7 +5,7 @@
 2.Right-click on the index.html file.\
 3.Choose the "Open with Live Server" option from the context menu.\
 4.This will open the project in your default web browser with Live Server enabled.\
-5.You can then interact with the eSewa payment integration demo.\
+5.You can then interact with the eSewa payment integration demo.
 
 ## Notes
 1.Make sure you have an active internet connection to properly load external scripts.\
